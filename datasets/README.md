@@ -1,4 +1,4 @@
-**Dataset Splits code**: https://github.com/naacl943/datasets
+**Dataset Splits code**: https://github.com/bit-ml/date/tree/master/datasets
 
 * For a fair comparison, we use the same preprocessing like in (Ruff et al., 2019).
 

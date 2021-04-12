@@ -1,4 +1,4 @@
-**DATE experiments**: https://github.com/naacl943/experiments
+**DATE experiments**: https://github.com/bit-ml/date/tree/master/experiments
 
 * Generate masks: create_masks.py
 
@@ -6,13 +6,13 @@
 
 * **Run an experiment on the AG News business split**:
 
-  * pip install git+https://github.com/naacl943/simpletransformers.git
+  * pip install git+https://github.com/bit-ml/date/tree/master/experiments
 
-  * git clone https://github.com/naacl943/experiments.git
+  * git clone https://github.com/bit-ml/date.git
 
   * cd experiments
 
-  * git clone  https://github.com/naacl943/datasets.git
+  * cd ..
 
   * cd datasets && python ag.py && bash generate_outliers_ag.sh
 

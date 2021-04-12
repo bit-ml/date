@@ -1,8 +1,8 @@
 # DATE code (simpletransformers fork)
 
-**DATE code**: https://github.com/naacl943/simpletransformers
+**DATE code**: https://github.com/bit-ml/date/tree/master/simpletransformers
 
-* Fork simpletransformers lib: https://github.com/naacl943/simpletransformers 
+* Fork simpletransformers lib: https://github.com/bit-ml/date/tree/master/simpletransformers 
 
 * The AD model train routine: train_model_anomaly function in language_modeling/language_modeling_model.py 
 
