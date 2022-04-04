@@ -6,7 +6,7 @@
 
 * **Run an experiment on the AG News business split**:
 
-  * pip install git+https://github.com/bit-ml/date/tree/master/experiments
+  * pip install 'git+https://github.com/bit-ml/date.git#egg=simpletransformers&subdirectory=simpletransformers'
 
   * git clone https://github.com/bit-ml/date.git
 
